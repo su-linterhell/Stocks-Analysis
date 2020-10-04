@@ -14,12 +14,14 @@ In 2017, most stocks had a positive yearly return, except for TERP. DQ had the h
 Comparing the original code with the refactored code the refactored code saved time on both years when running the analysis. The original code had an average run time of .768 seconds between both years. The refactored code had an average run time of .16 between both years. 
 
 Run time for original code:
+
 ![VBA_Challenge_original_code_2017](Resources/VBA_Challenge_original_code_2017.png)
 
 ![VBA_Challenge_original_code_2018](Resources/VBA_Challenge_original_code_2018.png)
 
 
 Run time for refactored code:
+
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
