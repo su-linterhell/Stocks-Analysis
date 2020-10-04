@@ -15,10 +15,8 @@ Comparing the original code with the refactored code the refactored code saved t
 
 Run time for original code:
 
-![VBA_Challenge_original_code_2017](Resources/VBA_Challenge_original_code_2017.png)
-![VBA_Challenge_original_code_2018](Resources/VBA_Challenge_original_code_2018.png)
+
 
 Run time for refactored code:
 
-![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
-![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
+
