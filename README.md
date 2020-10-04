@@ -26,5 +26,9 @@ Comparing the original code with the refactored code the refactored code saved t
 
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
+## Summary
+
+Steve was satisfied with the workbook that was created and wanted to utilize it for more than just 12 stocks. Although the original code ran quickly enough for the data for 12 stocks, it may not as more stocks are added. By refactoring the code we are able to run the same analysis while saving time. This will help ensure that the code will work well as more data is added. Cons to refactoring code include potentially introducing bugs that you may not catch at first. For example, I had refactored my code and it ran with no errors. However, paying closer attention, my refactored code still was not fully correct. My outputs at first only gave me information for one ticker. Had I not checked on the code’s output once it worked, I would have given Steve a workbook that didn’t work as well as the original had I had created. You are always at risk for introducing bugs or new issues when re-writing code so it is essential to pay close attention to details when refactoring code. 
+
 
 
