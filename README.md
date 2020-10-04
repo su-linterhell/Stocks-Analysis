@@ -11,7 +11,7 @@ By utilizing VBA’s tools I created an analysis that Steve or others could run 
 ## Results 
 In 2017, most stocks had a positive yearly return, except for TERP. DQ had the highest yearly return, with a 199.4% return. However, things were very different in 2018, with most stocks having a negative yearly return. Only ENPH and RUN positive yearly returns. Both stocks had similar yearly returns but RUN had 2.1% more return than ENPH. Their yearly return was 84%. Given both of these stocks had positive yearly returns in 2017 and 2018, they would be the best stocks to invest in. My recommendation is to invest in ENPH stocks. Both had similar return % for 2018, but ENPH had a significantly higher yearly return in 2017 than RUN. In 2017 ENPH had a yearly return of 129.5% while RUN only had one of 5.5%. 
 
-Comparing the original code with the refactored code the refactored code saved time on both years when running the analysis. The original code had an average run time of .768 seconds between both years. The refactored code had an average run time of .16 between both years. 
+Comparing the original code with the refactored code the refactored code saved time on both years when running the analysis. The original code had an average run time of .768 seconds between both years. The refactored code had an average run time of .16 seconds between both years. 
 
 #### Run time for original code:
 
